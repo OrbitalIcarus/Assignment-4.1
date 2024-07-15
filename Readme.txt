@@ -1,0 +1,4 @@
+Within my current Html it may come off as rather bare bones currently due to the lack of implimented CSS, however the idea remains the same as planned regarding my wire frame!
+Mostly all sections within my HTML are requiring proper CSS aligning, margins, padding and color.
+I have already set up the containers for my articles that I wish to edit but have not set up any onclick events related to my Nav links as I wish to do this alongside my CSS creation. (Its a bit better with my mental organization)
+The onclick events I wish to have on each nav button will change the background to whatever is being refrenced in the nav. I intend for this to be 3 different images.
